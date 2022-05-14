@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using WebSocketSharp;
 using Microsoft.Win32;
 class TestClass
@@ -30,8 +30,8 @@ class TestClass
 
             ws.Connect();
             ws.Send(script);
-            Console.ReadKey(true);
             ws.Close();
+            return;
         }
     }
 }
