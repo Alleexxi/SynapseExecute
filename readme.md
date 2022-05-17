@@ -3,7 +3,7 @@
 
 ## Features
 
-- Right CLick on files to Execute them
+- Right Click on files to Execute them
 
 ## Installation
 
