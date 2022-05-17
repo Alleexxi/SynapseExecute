@@ -13,5 +13,3 @@
 3. Extract it
 4. Run as Admin
 ```
-
-[![Watch the video](https://i.imgur.com/WduNEHk.png)](https://youtu.be/wg5MoPvFazg)
